@@ -1,9 +1,0 @@
-{
-    "apps": [
-        {
-            "name": "under-construction-website",
-            "script": "npm",
-            "args": "run start"
-        }
-    ]
-}
